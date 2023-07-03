@@ -1,0 +1,41 @@
+#container{
+    background-color: yellow;
+    padding: 5px;
+    margin: 5px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container #inputfield{
+    background-color: gray;
+    color: white;
+    text-align: center; 
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#inputfield h2{
+    padding: 10px;
+}
+
+#inputBox{
+    width: 90%;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 8px;    
+}
+
+#inputfield button{
+    padding: 8px;
+    margin: 10px;
+    background-color:khaki ;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#result{
+    font-size: 28px;
+    padding: 8px;
+}
