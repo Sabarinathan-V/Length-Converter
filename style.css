@@ -1,7 +1,6 @@
 #container{
     background-color: yellow;
     padding: 5px;
-    margin: 5px;
     width: 100vw;
     height: 100vh;
     display: flex;
